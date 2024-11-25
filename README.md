@@ -1,5 +1,5 @@
 # 💫 About Kelvin David:
-Avid Software Engineer currently working with symfony, API-Platform, Java,  SpringBoot and React/NextJs
+Avid Software Engineer currently working with Django/Django REST, Symfony, API-Platform, Java, SpringBoot and React/NextJs
 
 
 ## 🌐 Socials:
